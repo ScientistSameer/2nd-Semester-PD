@@ -1,0 +1,7 @@
+E:\CS 2nd Semester\PD\Tasks\week 3\Task1Calculator\Task1Calculator\bin\Debug\Task1Calculator.exe.config
+E:\CS 2nd Semester\PD\Tasks\week 3\Task1Calculator\Task1Calculator\bin\Debug\Task1Calculator.exe
+E:\CS 2nd Semester\PD\Tasks\week 3\Task1Calculator\Task1Calculator\bin\Debug\Task1Calculator.pdb
+E:\CS 2nd Semester\PD\Tasks\week 3\Task1Calculator\Task1Calculator\obj\Debug\Task1Calculator.csproj.AssemblyReference.cache
+E:\CS 2nd Semester\PD\Tasks\week 3\Task1Calculator\Task1Calculator\obj\Debug\Task1Calculator.csproj.CoreCompileInputs.cache
+E:\CS 2nd Semester\PD\Tasks\week 3\Task1Calculator\Task1Calculator\obj\Debug\Task1Calculator.exe
+E:\CS 2nd Semester\PD\Tasks\week 3\Task1Calculator\Task1Calculator\obj\Debug\Task1Calculator.pdb

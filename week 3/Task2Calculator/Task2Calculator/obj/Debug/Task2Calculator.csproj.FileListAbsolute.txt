@@ -1,0 +1,7 @@
+E:\CS 2nd Semester\PD\Tasks\week 3\Task2Calculator\Task2Calculator\bin\Debug\Task2Calculator.exe.config
+E:\CS 2nd Semester\PD\Tasks\week 3\Task2Calculator\Task2Calculator\bin\Debug\Task2Calculator.exe
+E:\CS 2nd Semester\PD\Tasks\week 3\Task2Calculator\Task2Calculator\bin\Debug\Task2Calculator.pdb
+E:\CS 2nd Semester\PD\Tasks\week 3\Task2Calculator\Task2Calculator\obj\Debug\Task2Calculator.csproj.AssemblyReference.cache
+E:\CS 2nd Semester\PD\Tasks\week 3\Task2Calculator\Task2Calculator\obj\Debug\Task2Calculator.csproj.CoreCompileInputs.cache
+E:\CS 2nd Semester\PD\Tasks\week 3\Task2Calculator\Task2Calculator\obj\Debug\Task2Calculator.exe
+E:\CS 2nd Semester\PD\Tasks\week 3\Task2Calculator\Task2Calculator\obj\Debug\Task2Calculator.pdb
