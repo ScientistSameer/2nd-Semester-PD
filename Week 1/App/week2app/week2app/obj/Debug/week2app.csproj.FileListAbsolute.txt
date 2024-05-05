@@ -1,0 +1,7 @@
+E:\CS 2nd Semester\PD\App\week2app\week2app\week2app\bin\Debug\week2app.exe.config
+E:\CS 2nd Semester\PD\App\week2app\week2app\week2app\bin\Debug\week2app.exe
+E:\CS 2nd Semester\PD\App\week2app\week2app\week2app\bin\Debug\week2app.pdb
+E:\CS 2nd Semester\PD\App\week2app\week2app\week2app\obj\Debug\week2app.csproj.AssemblyReference.cache
+E:\CS 2nd Semester\PD\App\week2app\week2app\week2app\obj\Debug\week2app.csproj.CoreCompileInputs.cache
+E:\CS 2nd Semester\PD\App\week2app\week2app\week2app\obj\Debug\week2app.exe
+E:\CS 2nd Semester\PD\App\week2app\week2app\week2app\obj\Debug\week2app.pdb

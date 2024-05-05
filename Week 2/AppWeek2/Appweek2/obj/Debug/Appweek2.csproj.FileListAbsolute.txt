@@ -1,0 +1,7 @@
+E:\CS 2nd Semester\PD\week2\Appweek2\Appweek2\bin\Debug\Appweek2.exe.config
+E:\CS 2nd Semester\PD\week2\Appweek2\Appweek2\bin\Debug\Appweek2.exe
+E:\CS 2nd Semester\PD\week2\Appweek2\Appweek2\bin\Debug\Appweek2.pdb
+E:\CS 2nd Semester\PD\week2\Appweek2\Appweek2\obj\Debug\Appweek2.csproj.AssemblyReference.cache
+E:\CS 2nd Semester\PD\week2\Appweek2\Appweek2\obj\Debug\Appweek2.csproj.CoreCompileInputs.cache
+E:\CS 2nd Semester\PD\week2\Appweek2\Appweek2\obj\Debug\Appweek2.exe
+E:\CS 2nd Semester\PD\week2\Appweek2\Appweek2\obj\Debug\Appweek2.pdb
